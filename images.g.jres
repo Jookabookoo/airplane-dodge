@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAADd3d3d3f0AAD3TPdPd/QAA3d3d3d39AADd3d3d3f0AAN3d3d3d/QAA39/f39//AAD9/f39/f0AAN3d3d3d/QAA3d3d3d39AAD/3d3d3f0PAPDd3d3d3Q8A8N3d3d3dDwDw3d3d3d3/APDf3d3d3f0AAN/d3d3d/QAA////////AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Airplane"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
